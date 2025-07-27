@@ -1,7 +1,7 @@
 # 👾 Space Invaders 👾
-This is an emulator of the 1978 Taito arcade machine [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) running on top of my [Intel8080 emulator](https://github.com/encephalalgia/intel8080). It comes with color, sound, and high score persistence!
+This is an emulator of the 1978 Taito arcade machine [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) running on top of my [Intel8080 emulator](https://github.com/camelliya/intel8080). It comes with color, sound, and high score persistence!
 <p align="center">
-  <img alt="Spacefight Invaders attract mode gif" src="https://raw.githubusercontent.com/encephalalgia/space-invaders/master/examples/attract_mode.gif" height="400" />
+  <img alt="Spacefight Invaders attract mode gif" src="https://raw.githubusercontent.com/camelliya/space-invaders/master/examples/attract_mode.gif" height="400" />
 </p>
 
 # Controls
@@ -26,7 +26,7 @@ This is an emulator of the 1978 Taito arcade machine [Space Invaders](https://en
 ### Build & Run
 1) Download the source code
     ```
-    git clone https://github.com/encephalalgia/space-invaders.git
+    git clone https://github.com/camelliya/space-invaders.git
     cd space-invaders
     ```
 2) **Optional:** If you want, you can customize the colors of the emulator by changing the color code constants defined in [Display.h](src/components/Display.h).  
